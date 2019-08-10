@@ -6,10 +6,10 @@ date_default_timezone_set("Asia/Ho_Chi_Minh");
 */
 class Database
 {
-	private  $host = 'localhost';
-	private  $username = 'root';
-	private  $password = '';
-	private  $dbName = 'meranda';
+	private  $host = 'remotemysql.com';
+	private  $username = 'jqk0gplsDR';
+	private  $password = 'UkBr5ttBBS';
+	private  $dbName = 'jqk0gplsDR';
 
 	private  $db;
 
